@@ -4,11 +4,10 @@
 009 00 *aa*gxe 
 010 00 *aD912816308 
 041 00 *aeng*adan 
-245 00 *aWikipedia. The free encyclopedia 
-260 00 *bWikipedia. 
-504 00 *aOpbygget efter princippet om Open Source. Alle kan skrive nye opslagsord
-        og forklaringer ind i leksikonnet, der således hele tiden er under udvikling.
-        Findes på mange sprog, bl.a. 
+245 00 *aWikipedia. The free encyclopedia
+260 00 *bWikipedia
+504 00 *aAlle kan skrive nye opslagsord og forklaringer ind i leksikonnet,
+        der således hele tiden er under udvikling.
+        Findes på mange sprog, bl.a. Dansk, Engelsk og Tysk.
 631 00 *aleksika 
-710 00 *aWikipedia.*bDC.Publisher 
 856 00 *uhttp://www.wikipedia.org/ 
